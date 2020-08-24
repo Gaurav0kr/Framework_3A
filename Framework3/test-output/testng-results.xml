@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="39053" started-at="2020-08-23T17:19:33Z" finished-at="2020-08-23T17:20:12Z">
+  <suite name="Suite" duration-ms="54664" started-at="2020-08-24T06:14:16Z" finished-at="2020-08-24T06:15:11Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="39053" started-at="2020-08-23T17:19:33Z" finished-at="2020-08-23T17:20:12Z">
+    <test name="Test" duration-ms="54664" started-at="2020-08-24T06:14:16Z" finished-at="2020-08-24T06:15:11Z">
       <class name="com.testcases.TestCase">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.TestCase@457e2f02]" name="setup" is-config="true" duration-ms="8060" started-at="2020-08-23T17:19:33Z" finished-at="2020-08-23T17:19:41Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.TestCase@457e2f02]" name="setup" is-config="true" duration-ms="15053" started-at="2020-08-24T06:14:16Z" finished-at="2020-08-24T06:14:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="nc_Buy_tablet()[pri:0, instance:com.testcases.TestCase@457e2f02]" name="nc_Buy_tablet" duration-ms="29824" started-at="2020-08-23T17:19:41Z" finished-at="2020-08-23T17:20:11Z">
+        <test-method status="PASS" signature="nc_Buy_tablet()[pri:0, instance:com.testcases.TestCase@457e2f02]" name="nc_Buy_tablet" duration-ms="37901" started-at="2020-08-24T06:14:31Z" finished-at="2020-08-24T06:15:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- nc_Buy_tablet -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testcases.TestCase@457e2f02]" name="teardown" is-config="true" duration-ms="1134" started-at="2020-08-23T17:20:11Z" finished-at="2020-08-23T17:20:12Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testcases.TestCase@457e2f02]" name="teardown" is-config="true" duration-ms="1663" started-at="2020-08-24T06:15:09Z" finished-at="2020-08-24T06:15:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.testcases.TestCase -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
